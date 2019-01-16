@@ -1,16 +1,18 @@
 # awesome-free-video-editing-software
-An awesome curated list of video editing 📽 painting applications 🖌 and animation 2D/3D tools 🕺
+An awesome curated list of video editing 📽 painting applications 🖌 animation 2D/3D tools 🕺
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ## Contents
 
-* [Video editing](#Video-editing)
-* [Painting & Drawing](#Painting-&-Drawing)
+* [Video editing](/#Video-editing)
+* [Painting & Drawing](/#Painting-&-Drawing)
 
 
 ### Video editing
-* [011.video](https://011.video/) - Free video editing web app.
+* [011.video](https://011.video/) - Free and easy video editing web app.
+* [clipchamp](https://clipchamp.com/en/) - Clipchamp free video editor compressor converter and webcam recorder.
+* [Headliner video editor](https://www.headliner.app) - Create social media videos for free.
 * [VideoToolbox](http://videotoolbox.com) `[Account]` - Video editor with all the common editing features. Size limited to 600mb.
 
 
@@ -24,4 +26,4 @@ An awesome curated list of video editing 📽 painting applications 🖌 and ani
 
 
 ### Painting & Drawing
-* [ShapeShift.io](https://shapeshift.io) - Instant cryptocurrency conversion.
+* [Blender](https://www.blender.org/) - Blender free Open Source 3D creation.
