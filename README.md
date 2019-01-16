@@ -13,10 +13,10 @@ An awesome curated list of video editing 📽 painting applications 🖌 animati
 ### Audio editing
 * [MP3 Cut](http://mp3cut.net/) - Online audio cutter.
 * [TwistedWeb Online](https://twistedwave.com/online/) - Powerful audio editor. Files not saved online.
-* [Filelab Audio Editor](http://www.avs4you.com) - Audio editor with basic features like trim, merge, cut audio.
-* [Until AM](http://mix.until.am/) - Online music mixer, DJ software.
-* [YOU.DJ](https://you.dj/) - Online music mixer, DJ software sourcing music from SoundCloud.
-* [bfxr](http://www.bfxr.net/) - Make sound effects for your games.
+* [Filelab Audio Editor](http://www.avs4you.com) - Audio editor for triming, merging, cuting audio.
+* [Until AM](http://mix.until.am/) - Online DJ music mixer software.
+* [YOU.DJ](https://you.dj/) - Online DJ software to mix sourcing music from SoundCloud.
+* [bfxr](http://www.bfxr.net/) - Make sound effects.
 
 
 ### Painting & Drawing
