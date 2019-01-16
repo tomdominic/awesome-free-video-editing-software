@@ -3,12 +3,6 @@ An awesome curated list of video editing 📽 painting applications 🖌 animati
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-## Contents
-
-* [Video editing](/#Video-editing)
-* [Painting & Drawing](/#Painting-&-Drawing)
-
-
 ### Video editing
 * [011.video](https://011.video/) - Free and easy video editing web app.
 * [clipchamp](https://clipchamp.com/en/) - Clipchamp free video editor compressor converter and webcam recorder.
