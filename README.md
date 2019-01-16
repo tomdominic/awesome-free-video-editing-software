@@ -7,7 +7,7 @@ An awesome curated list of video editing 📽 painting applications 🖌 animati
 * [011.video](https://011.video/) - Free and easy video editing web app.
 * [clipchamp](https://clipchamp.com/en/) - Clipchamp free video editor compressor converter and webcam recorder.
 * [Headliner video editor](https://www.headliner.app) - Create social media videos for free.
-* [VideoToolbox](http://videotoolbox.com) `[Account]` - Video editor with all the common editing features. Size limited to 600mb.
+* [VideoToolbox](http://videotoolbox.com) - Video editor with full editing features.
 
 
 ### Audio editing
