@@ -8,7 +8,11 @@ An awesome curated list of video editing 📽 painting applications 🖌 animati
 * [clipchamp](https://clipchamp.com/en/) - Clipchamp free video editor compressor converter and webcam recorder.
 * [Headliner video editor](https://www.headliner.app) - Create social media videos for free.
 * [VideoToolbox](http://videotoolbox.com) - Video editor with full editing features.
+* [Voxgun](https://voxgun.com/) - create videos with professional voice-over narration.
 
+
+### Mobile Free Video Editing Apps
+* [Kruso](https://kruso.me/) - Video editor in your pocket.
 
 ### Audio editing
 * [MP3 Cut](http://mp3cut.net/) - Online audio cutter.
