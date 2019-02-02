@@ -1,5 +1,5 @@
 # awesome-free-video-editing-software
-An awesome curated list of video editing 📽 painting applications 🖌 animation 2D/3D tools 🕺
+An awesome curated list of video editing 📽 painting applications 🖌 animation 2D/3D tools
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
